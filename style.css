@@ -132,3 +132,52 @@ ins_h3{
     opacity:0.7;
 
 }
+.target_section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.current_tr_container{
+    /* width: 80%;
+    text-align: center; */
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.current_target_box1{
+    
+    border-radius: 16px;
+    background-color: rgba(255, 76, 30, 0.024);
+    padding: 20px;
+    text-align: start;
+}
+.current_target_box2{
+   
+    border-radius: 16px;
+    background: rgba(0, 77, 232, 0.024);
+    padding: 20px;
+    text-align: start;
+}
+
+.current_target_box3{
+   
+    border-radius: 16px;
+    background: rgba(255, 221, 0, 0.024);
+    padding: 20px;
+    text-align: start;
+}
+.target_img{
+    margin-bottom: 10px;
+}
+.target_h4{
+    font-weight: 800    ;
+}
+.target_para{
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    margin-bottom: 10px;
+
+}
