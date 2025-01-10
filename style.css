@@ -136,6 +136,15 @@ ins_h3{
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.target_title{
+    font-weight:bolder;
+    color: rgb(13, 19, 33);
+
+}
+.target_p_header{
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+}
 
 .current_tr_container{
     /* width: 80%;
@@ -180,4 +189,23 @@ ins_h3{
     opacity: 0.7;
     margin-bottom: 10px;
 
+}
+.next_section{
+    margin-top: 50px;
+}
+.next_target_box1{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    background-color: rgba(110, 42, 42, 0.097);
+    margin: 40px;
+    border-radius: 16px;
+    
+}
+.img_container{
+    margin: 45px;
+}
+
+.herad_part{
+    text-align: start;
 }
